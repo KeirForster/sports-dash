@@ -1,0 +1,9 @@
+$dark-theme-primary: mat-palette($default-color-primary);
+$dark-theme-accent: mat-palette($default-color-accent);
+$dark-theme-warn: mat-palette($default-color-warn);
+
+$dark-theme: mat-dark-theme(
+    $dark-theme-primary,
+    $dark-theme-accent,
+    $dark-theme-warn
+);
