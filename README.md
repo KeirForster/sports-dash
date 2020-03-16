@@ -1,6 +1,4 @@
-# This project consists of an angular workspace, *ng-workspace* with 1 Angular application, *dashboard*.
-
-## To run the *dashboard* app:
+## To run the project:
 
 1. cd ng-workspace
 2. npm i
